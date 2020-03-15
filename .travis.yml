@@ -17,7 +17,7 @@ install:
     - git clone https://github.com/docker-library/official-images.git official-images
 
 arch:
-    - arm32v6
+    - arm64
 
 # Assist with ci test debugging:
 #   - DEBUG=1
