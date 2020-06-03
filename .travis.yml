@@ -18,6 +18,7 @@ install:
 
 arch:
     - arm64
+    - amd64
 
 # Assist with ci test debugging:
 #   - DEBUG=1
